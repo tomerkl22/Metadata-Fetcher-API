@@ -17,26 +17,18 @@ This project is a simple API that fetches metadata (title, description, and imag
 
 1. Clone the repository:
 
-   \`\`\`bash
    git clone https://github.com/yourusername/metadata-fetcher-api.git
-   \`\`\`
 
 2. Navigate to the project directory:
 
-   \`\`\`bash
    cd metadata-fetcher-api
-   \`\`\`
 
 3. Install the dependencies:
 
-   \`\`\`bash
    npm install
-   \`\`\`
 
 ## Usage
 
 1. Start the server:
 
-   \`\`\`bash
    npm start
-   \`\`\`
